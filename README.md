@@ -39,7 +39,7 @@
 
 
 
-<h3 align="left">Connect with me:</h3>
+<h1 align="left">Connect with me:</h1>
 <p align="left">
     <a href="https://www.linkedin.com/in/it-s-vivek/" target="blank"><img
             align="right"
