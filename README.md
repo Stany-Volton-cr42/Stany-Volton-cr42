@@ -42,7 +42,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
     <a href="https://www.linkedin.com/in/it-s-vivek/" target="blank"><img
-            align="left"
+            align="right"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
             alt="https://www.linkedin.com/in/vivek-raj-35007620a/" height="50" width="60" /></a>
 </p>
